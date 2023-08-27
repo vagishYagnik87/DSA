@@ -35,7 +35,7 @@ public class Q4 {
 
 //{ Driver Code Starts.
 
-    class GFG {
+    public static class GFG {
         public static void main (String[] args) throws IOException {
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             int t = Integer.parseInt(br.readLine().trim()); //Inputting the testcases
